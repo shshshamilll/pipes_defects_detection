@@ -1,1 +1,1 @@
-# pipes_defects_detection
+# Детектор дефектов на трубах
